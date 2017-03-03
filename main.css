@@ -1,59 +1,9 @@
-
-.nav a{
-    color:black;
-    font-size: 20px;
-    font-weight: bold;
-    padding-right:20px;
-    padding-top:30px;
-    text-align:right;
-}
-
-.nav li{
-    display: inline-table;
-    text-align: right;
-}
-
-.nav img{
-    height: 50px;
-    width: auto;
-    margin-left: -1%;
+.experiences h3{
+color: black;
+font-style: normal;
     
 }
 
-.jumbotron {
-    background-color: gray;
-    margin-top: -5%;
-}
-
-
-.jumbotron h2{
+.contact_form{
     text-align: center;
-    color: black;
-    margin-top: -35%;
-    font-size: 300%;
-    font-family: "Lucida Sans Typewriter", "Lucida Console", monaco, "Bitstream Vera Sans Mono", monospace;
-    
-}
-
-.jumbotron h4{
-    text-align: center;
-    color: black;
-    font-size: 200%;
-    font-family: "Lucida Sans Typewriter", "Lucida Console", monaco, "Bitstream Vera Sans Mono", monospace;
-}
-
-.thumbnail1 img{
-    height: 300px;
-    width: auto;
-    margin-top: 24%;
-    margin-left: 15%;
-    
-}
-
-.thumbnail2 img{
-    height: 300px;
-    width: auto;
-    margin-top: -26%;
-    margin-left: 50%;
-    
 }
