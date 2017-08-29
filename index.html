@@ -225,27 +225,7 @@
 -->
 
       
-    
-<!-- Google Map -->
-<div id="googleMap" class="w3-grayscale" style="width:100%;height:40px;"></div>
-
-<!-- Add Google Maps -->
-<div id="map"></div>
-   
- <script>
-      function initMap() {
-        var uluru1 = {lat: 44.7677, lng: -93.2777};
-        var uluru2 = {lat:50, lng:-70.3};
-        var map = new google.maps.Map(document.getElementById('map'), {
-          zoom: 4,
-          center: uluru1
-        });
-        var marker = new google.maps.Marker({
-          position: uluru1,
-          map: map
-        });
-      }
-    </script>    
+       
         
         
 
@@ -272,13 +252,5 @@
   
 
 </footer>
-
-    
-<script async defer
-    src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAaVNrfpn_o-z3g09AmSxy4VYjEMqtE378&callback=initMap">
-    </script>    
-    
-
-
 </body>
 </html>
